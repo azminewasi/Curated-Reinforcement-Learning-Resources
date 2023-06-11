@@ -35,7 +35,7 @@ Use these resources to learn reinforcement learning and build intelligent agents
 ## 👋 **Want to contribute?**
 
 Hey there! We are building something awesome, and we want you to be a part of it! Our goal is to create the ultimate resource hub for learning Reinforcement Learning. But we can't do it alone - we need your help!
-- Feel free to open an issue or submit a pull request, and let's build something amazing together. Check out our contribution guide for more information.
+- Feel free to [open an issue](https://github.com/azminewasi/Reinforcement-Learning-Resources/issues/new/choose), and let's build something amazing together. Check out our contribution guide for more information.
 - Join us and let's make the best Reinforcement Learning resource hub on GitHub! 🚀
 
 ---
