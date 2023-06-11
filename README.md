@@ -1,8 +1,10 @@
-# **Reinforcement Learning Resources** 🚀✨
+<h1 align="center">✨ <b> Reinforcement Learning Resources </b> 🚀</h1>
+<img src="fig/demo.jpg">
 
-This is a curated list of resources to learn reinforcement learning. The list includes courses, tutorials, and videos from various providers.
 
 ***Reinforcement learning** is an exciting area of machine learning that focuses on training agents to make decisions based on feedback from their environment. It has been successfully applied in a wide range of fields, from game development to robotics and finance. With reinforcement learning, agents can learn to optimize their behavior and achieve complex goals through trial and error, just like humans do.*
+
+This is a curated list of resources to learn reinforcement learning. The list includes courses, tutorials, and videos from various providers.
 
 | Course Title | Source | Type | Difficulty | URL |
 | --- | --- | --- | --- | --- |
