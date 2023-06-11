@@ -29,12 +29,14 @@ This is a curated list of resources to learn reinforcement learning. The list in
 ---
 Use these resources to learn reinforcement learning and build intelligent agents that can learn from experience. Happy learning!
 
+### Don't forget to **star** the repo! ⭐⭐⭐⭐⭐
+
 ---
 ## 👋 **Want to contribute?**
 
-We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement, feel free to open an issue or submit a pull request. If you feel up to the task, please take a peek at our contribution guide.
-
-Together, let's make this the best AI learning hub on GitHub! 🚀
+Hey there! We are building something awesome, and we want you to be a part of it! Our goal is to create the ultimate resource hub for learning Reinforcement Learning. But we can't do it alone - we need your help!
+- Feel free to open an issue or submit a pull request, and let's build something amazing together. Check out our contribution guide for more information.
+- Join us and let's make the best Reinforcement Learning resource hub on GitHub! 🚀
 
 ---
 
