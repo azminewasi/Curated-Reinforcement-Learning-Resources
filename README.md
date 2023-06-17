@@ -1,4 +1,4 @@
-<h1 align="center">✨ <b> Reinforcement Learning Resources </b> 🚀</h1>
+<h1 align="center">✨ <b> Curated Reinforcement Learning Resources </b> 🚀</h1>
 <img src="fig/demo.jpg">
 
 
